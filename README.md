@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Hema Hasanapuram
 
-<!--
-**Hema-2530/Hema-2530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Web Developer** passionate about creating clean and user-friendly websites  
+🌱 Currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+🚀 Built my first [Portfolio Website](https://hema-2530.github.io/personal-portfolio)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code  
+- **Learning:** React, Node.js, Express, MongoDB
+
+---
+
+### 📬 Contact
+📧 Email: hemahasanapuram30@gmail.com  
+🔗 GitHub: [github.com/Hema-2530](https://github.com/Hema-2530)
+
+---
+
+Thanks for visiting my profile! 😊
+
